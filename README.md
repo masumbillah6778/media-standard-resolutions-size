@@ -1,0 +1,1 @@
+# media-standard-resolutions-size
